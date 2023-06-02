@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidPracticeExercise4</string>
+    <string name="app_username_hint">Username</string>
+    <string name="app_password_hint">Password</string>
+    <string name="app_login">Login</string>
+    <string name="app_sign_in_brief">Sign in to your account</string>
+    <string name="app_welcome_message">Welcome back to Ostricher</string>
+    <string name="app_welcome_user">Your recent posts, EggCracker_69</string>
+</resources>
